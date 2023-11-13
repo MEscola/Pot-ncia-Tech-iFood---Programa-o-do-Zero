@@ -1,0 +1,24 @@
+ let nome = 'Hero';
+      const nivelExperiencia = 1.500;
+
+      if (nivelExperiencia < 1.500) {
+          console.log("Ferro");
+      } else if (nivelExperiencia >= 1.001 && nivelExperiencia <= 2.000) {
+          console.log("Bronze");
+      } else if (nivelExperiencia >= 2.001 && nivelExperiencia <= 5.000) {
+          console.log("Prata");
+      } else if (nivelExperiencia >= 6.001 && nivelExperiencia <= 7.000) {
+          console.log("Ouro");
+      } else if (nivelExperiencia >= 7.001 && nivelExperiencia <= 8.000) {
+          console.log("Platina");
+      } else if (nivelExperiencia >= 8.001 && nivelExperiencia <= 9.000) {
+          console.log("Ascendente");
+      } else if (nivelExperiencia >= 9.001 && nivelExperiencia <= 10.000) {
+          console.log("Imortal");
+      } else if (nivelExperiencia >= 10.001) {
+          console.log("Radiante");
+      } else {
+          console.log("Outro Nível");
+      }
+
+      console.log(`O Héroi de nome ${nome} está no nível de experiência ${nivelExperiencia}`);
