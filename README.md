@@ -1,4 +1,4 @@
-# Potência-Tech-iFood---Programa-o-do-Zero
+# Potência-Tech-iFood---Programação-do-Zero
 Repositorio com os desafios propostos no Bootcamp
 
 ## Desafio 1
