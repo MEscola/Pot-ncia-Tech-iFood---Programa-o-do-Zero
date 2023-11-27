@@ -1,6 +1,7 @@
 # Potencia-Tech-iFood---Programação-do-Zero
 Repositorio com os desafios propostos no Bootcamp 
-linguagem utilizada JavaScrit
+
+Linguagem utilizada JavaScrit
 
 ## Desafio 1
 ### Classificador do Nível de Herói
