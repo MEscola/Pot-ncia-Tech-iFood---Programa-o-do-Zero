@@ -1,5 +1,6 @@
-# Potência-Tech-iFood---Programa-o-do-Zero
-Repositorio com os desafios propostos no Bootcamp
+# Potencia-Tech-iFood---Programação-do-Zero
+Repositorio com os desafios propostos no Bootcamp 
+linguagem utilizada JavaScrit
 
 ## Desafio 1
 ### Classificador do Nível de Herói
@@ -20,7 +21,7 @@ Ao final deve se exibir uma mensagem:
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
 
 ## Desafio 3
-# 3️⃣ Escrevendo as classes de um Jogo
+### Escrevendo as classes de um Jogo
 
 **O Que deve ser utilizado**
 
@@ -31,7 +32,7 @@ Ao final deve se exibir uma mensagem:
 - Funções
 - Classes e Objetos
 
-## Objetivo:
+### Objetivo:
 
 Crie uma classe generica que represente um herói de uma aventura e que possua as seguintes propriedades:
 
@@ -50,7 +51,7 @@ se guerreiro -> no ataque exibir (usou espada)
 se monge -> no ataque exibir (usou artes marciais)
 se ninja -> no ataque exibir (usou shuriken)
 
-## Saída
+### Saída
 
 Ao final deve se exibir uma mensagem:
 
